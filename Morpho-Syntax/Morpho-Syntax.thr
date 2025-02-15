@@ -1,0 +1,26 @@
+;;;
+;;; SmallWorld theory definitions
+;;;
+;;;  Name: Abtin Mogharabin
+;;;
+
+;;;
+;;; Specifies the set of features and their possible values.
+;;;
+;;; Every basic syntactic type implements these features,
+;;; either as a value or as a variable
+;;;
+
+(feature-dictionary (agr pl sg)
+                    (cat v n)
+                    (bar 0 1 2)
+										(fin + -))
+
+;;;
+;;; Provides the category bundle symbols (ccg category symbols) with their
+;;; meanings. Their meanings are the features they will specify.
+;;;
+
+(category-bundles (s (cat v))
+		  						(n (cat n)) 
+		 )
