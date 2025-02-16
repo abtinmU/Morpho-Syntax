@@ -1,7 +1,7 @@
 # Morpho-Syntax
 
 ## **Overview**  
-This project implements a Combinatory Categorial Grammar (CCG) parser with an optimized lexicon and finite-state morphology for Turkish. It handles complex syntactic structures, morphological alternations, and case marking while improving parsing efficiency using starred slash modalities to eliminate spurious parses.  
+This project implements a Combinatory Categorial Grammar (CCG) parser with an optimized lexicon and finite-state morphology. It handles complex syntactic structures, morphological alternations, and case marking while improving parsing efficiency using starred slash modalities to eliminate spurious parses.  
 
 ## **Features**  
 - **Lexicon Optimization**: Efficient representation of Turkish morphology and syntax.  
