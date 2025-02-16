@@ -15,7 +15,7 @@ This project implements a Combinatory Categorial Grammar (CCG) parser with an op
 - [SmallWorld](https://github.com/umutozge/smallworld)
 
 ## Running the code
-The general structure of this repository is provided below:
+There are 2 main folders for each of the English and Turkish versions. The general structure of each folder is provided below:
 ```
 ├── Morpho-Syntax.lexc # Lexicon in lexc format defining nouns, proper nouns, verbs, determiners, etc.
 ├── Morpho-Syntax.lex # SmallWorld lexicon with detailed morphology and syntactic/semantic definitions

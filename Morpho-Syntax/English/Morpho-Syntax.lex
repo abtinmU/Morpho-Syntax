@@ -1,6 +1,4 @@
-SmallWorld lexicon with morphology
-
-Name: Abtin Mogharabin
+Lexicon with morphology
 -----------------------------------------
 
 Verbs:
