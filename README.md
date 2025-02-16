@@ -11,6 +11,7 @@ This project implements a Combinatory Categorial Grammar (CCG) parser with an op
 
 ## **Requirements**  
 - [foma](https://code.google.com/archive/p/foma/)
+- [XFST](https://dsacl3-2018.github.io/xfst-demo/)
 - [XLE](https://ling.sprachwiss.uni-konstanz.de/pages/xle/)
 - [SmallWorld](https://github.com/umutozge/smallworld)
 
