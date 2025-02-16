@@ -15,7 +15,7 @@ This project implements a Combinatory Categorial Grammar (CCG) parser with an op
 - [XLE](https://ling.sprachwiss.uni-konstanz.de/pages/xle/)
 - [SmallWorld](https://github.com/umutozge/smallworld)
 
-## Running the code
+## Repository Structure
 There are 2 main folders for each of the English and Turkish versions. The general structure of each folder is provided below:
 ```
 ├── Morpho-Syntax.lexc # Lexicon in lexc format defining nouns, proper nouns, verbs, determiners, etc.
