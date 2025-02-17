@@ -1,7 +1,9 @@
 # Morpho-Syntax
 
 ## **Overview**  
-This project implements a Combinatory Categorial Grammar (CCG) parser with an optimized lexicon and finite-state morphology. It handles complex syntactic structures, morphological alternations, and case marking while improving parsing efficiency using starred slash modalities to eliminate spurious parses.  
+This project implements a Combinatory Categorial Grammar (CCG) parser with an optimized lexicon and finite-state morphology. It handles complex syntactic structures, morphological alternations, and case marking while improving parsing efficiency using starred slash modalities to eliminate spurious parses. 
+
+For sample outputs of how the parsing process works for English sentences, check [this](https://github.com/abtinmU/Morpho-Syntax/blob/main/Morpho-Syntax/English/Morpho-Syntax.out) file.
 
 ## **Features**  
 - **Lexicon Optimization**: Efficient representation of English/Turkish morphology and syntax.  
